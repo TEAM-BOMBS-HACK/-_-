@@ -14,7 +14,7 @@ OrionLib:MakeNotification({
 
  
 
-local Window = OrionLib:MakeWindow({Name =" سكربت حمود الحربي", SearchBar = { Default = 'بحث قوائم في السكربت', ClearTextOnFocus = true }, HidePremium = false, SaveConfig = true, ConfigFolder = ""})
+local Window = OrionLib:MakeWindow({Name ="سكربت المطور علاوي", SearchBar = { Default = 'بحث قوائم في السكربت', ClearTextOnFocus = true }, HidePremium = false, SaveConfig = true, ConfigFolder = ""})
 
  
 
